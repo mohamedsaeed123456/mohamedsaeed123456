@@ -48,7 +48,3 @@ I build the screen, the API behind it and the database under it.</p>
 ## Let's talk
 
 If you are hiring or have a project, email me at [mohamedsaeed5101@gmail.com](mailto:mohamedsaeed5101@gmail.com), or look at my [portfolio](https://mohamedsaeed123456.github.io) and [freelance profile on Khamsat](https://khamsat.com/user/mohamedsaeed1111).
-
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mohamedsaeed123456&show_icons=true&theme=transparent&hide_border=true">
-</p>
